@@ -1,0 +1,7 @@
+proxies:
+  - name: "SOCKS5-iproyal"
+    type: socks5
+    server: 45.62.161.96
+    port: 12324
+    username: 14a4a7568f4a8
+    password: e8ebc02383
