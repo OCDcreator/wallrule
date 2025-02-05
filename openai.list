@@ -3,13 +3,13 @@
 DOMAIN-KEYWORD,openai
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,openai.com,Proxy
-DOMAIN-SUFFIX,api.openai.com,Proxy
-DOMAIN-SUFFIX,chat.openai.com,Proxy
-DOMAIN-SUFFIX,cdn.openai.com,Proxy
-DOMAIN-SUFFIX,platform.openai.com,Proxy
-DOMAIN-SUFFIX,auth0.openai.com,Proxy
-DOMAIN-SUFFIX,docs.openai.com,Proxy
-DOMAIN-SUFFIX,help.openai.com,Proxy
-DOMAIN-SUFFIX,community.openai.com,Proxy
-DOMAIN-SUFFIX,stripe.com,Proxy
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,api.openai.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,cdn.openai.com
+DOMAIN-SUFFIX,platform.openai.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,docs.openai.com
+DOMAIN-SUFFIX,help.openai.com
+DOMAIN-SUFFIX,community.openai.com
+DOMAIN-SUFFIX,stripe.com
