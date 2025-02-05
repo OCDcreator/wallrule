@@ -1,3 +1,8 @@
+# 内容：OpenAi Bard anthropic
+# 域名关键字匹配
+DOMAIN-KEYWORD,openai
+
+# 域名后缀匹配
 DOMAIN-SUFFIX,openai.com,Proxy
 DOMAIN-SUFFIX,api.openai.com,Proxy
 DOMAIN-SUFFIX,chat.openai.com,Proxy
