@@ -1,0 +1,10 @@
+DOMAIN-SUFFIX,openai.com,Proxy
+DOMAIN-SUFFIX,api.openai.com,Proxy
+DOMAIN-SUFFIX,chat.openai.com,Proxy
+DOMAIN-SUFFIX,cdn.openai.com,Proxy
+DOMAIN-SUFFIX,platform.openai.com,Proxy
+DOMAIN-SUFFIX,auth0.openai.com,Proxy
+DOMAIN-SUFFIX,docs.openai.com,Proxy
+DOMAIN-SUFFIX,help.openai.com,Proxy
+DOMAIN-SUFFIX,community.openai.com,Proxy
+DOMAIN-SUFFIX,stripe.com,Proxy
